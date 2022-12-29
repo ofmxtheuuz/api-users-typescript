@@ -1,7 +1,13 @@
+// entity user
+
+// export
 export default class User {
+    // properties
     name: string;
     email: string;
     password: string;
+
+    // constructor
     constructor(
         name: string,
         email: string,
