@@ -1,4 +1,4 @@
-// entity user
+// model user
 
 // export
 export default class User {
